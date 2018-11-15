@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [PersistentObjects.cs](./CS/PersistentObjects.cs) (VB: [PersistentObjects.vb](./VB/PersistentObjects.vb))
+<!-- default file list end -->
 # How to filter a collection by an associated objects' properties
 
 
